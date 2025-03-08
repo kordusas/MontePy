@@ -7,7 +7,6 @@ from montepy.errors import *
 from montepy.input_parser import mcnp_input, block_type
 import os
 import io
-import pytest
 
 
 def test_importance_init_cell():
